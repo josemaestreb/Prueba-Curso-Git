@@ -1,0 +1,11 @@
+commit 560982201696311908f9ad3b1e112ea22e4795b4
+Author: Jose <jose.maestre@pharex.co>
+Date:   Sat Aug 17 22:24:27 2024 -0500
+
+    Se incluyó la función cantar como Canserbero
+
+commit 35ae1e18b9eef0d3b1005c41b23bb7c74eb8158c
+Author: Jose <jose.maestre@pharex.co>
+Date:   Sat Aug 17 21:38:29 2024 -0500
+
+    Todo Ok! :)
